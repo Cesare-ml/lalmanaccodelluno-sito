@@ -119,5 +119,9 @@ name = "facebook"
 url = "https://www.facebook.com/profile.php?id=61560115046898"
 
 [[params.socialIcons]]
+name = "telegram"
+url = "https://t.me/lalmanaccodelluno"
+
+[[params.socialIcons]]
 name = "tiktok"
 url = "#"
